@@ -22,7 +22,7 @@ npm install -g jshint
 sudo apt-get install -y rlwrap
 
 # Install some other nice goodies.
-sudo apt-get install -y htop
+sudo apt-get install -y htop colordiff
 
 # Install Heroku toolbelt
 # https://toolbelt.heroku.com/debian
